@@ -14,5 +14,3 @@ Unique and Total Words in Chandio Dataset ...
 ![No_of_Unique_Words_Chanio2020](https://github.com/user-attachments/assets/cfd3e973-7048-49f0-ad0f-dd193c21aa82)
 
 
-Top-15
-![Top15_Frequent words__Chanio2020](https://github.com/user-attachments/assets/6cf8f704-ed9b-4465-824d-380b71ec71a8)   
