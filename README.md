@@ -1,5 +1,5 @@
 # Chandio_Words_DataSet_Visualizer
-Chandio Words DataSet Visualizer
+Chandio Words DataSet / Urdu-Text Visualizer
 Asghar Ali Chandio Dataset Paper Link : https://ieeexplore.ieee.org/document/8978091
 
 4-N-Grams Words...
